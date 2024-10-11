@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local Window = Rayfield:CreateWindow({
-	Name = "🔨OKENHUB🔨(should I add key for u bitch ass skidders?)",
+	Name = "🔨OKENHUB🔨(I added key for u bitch ass skidders)",
 	LoadingTitle = "Loading script",
 	LoadingSubtitle = "by Oken",
 	ConfigurationSaving = {
@@ -16,7 +16,7 @@ local Window = Rayfield:CreateWindow({
         },
 	KeySystem = true, -- Set this to true to use our key system
 	KeySettings = {
-		Title = "okenkey",
+		Title = "⚒️OKENHUB",
 		Subtitle = "Key System",
 		Note = "join the discord (discord.gg/X6ECq8JV)",
 		FileName = "OkenKey",
